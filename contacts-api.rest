@@ -1,0 +1,8 @@
+### Get all contacts
+GET https://cse341-contacts-api-dw4x.onrender.com/contacts
+Content-Type: application/json
+
+
+### Get a single contact by ID
+GET https://cse341-contacts-api-dw4x.onrender.com/contacts/6872441c471aab50dc6167f7
+Content-Type: application/json
